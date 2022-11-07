@@ -1,6 +1,6 @@
 name: Integration (Automatic)
 
-on: [push]
+on: [push, workflow_dispatch]
 # on:
 # push:
 #   branches:
